@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://smit-bhalani.vercel.app/
+Host: https://jay-portfolio-seven.vercel.app/
 
 # Sitemaps
-Sitemap: https://smit-bhalani.vercel.app/sitemap.xml
+Sitemap: https://jay-portfolio-seven.vercel.app/sitemap.xml

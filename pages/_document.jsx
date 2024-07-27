@@ -13,8 +13,8 @@ export default function Document() {
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://smit-bhalani.vercel.app/" />
-        <meta property="og:title" content="Smit Bhalani ✦ Full Stack developer" />
+        <meta property="og:url" content="https://jay-portfolio-seven.vercel.app/" />
+        <meta property="og:title" content="Jay Ardeshna ✦ Full Stack developer" />
         <meta
           property="og:description"
           content="Full Stack Developer // Web Development // SaaS"
@@ -28,7 +28,7 @@ export default function Document() {
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://smit-bhalani.vercel.app/"
+          content="https://jay-portfolio-seven.vercel.app/"
         />
         <meta
           property="twitter:title"
@@ -58,7 +58,7 @@ export default function Document() {
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://smit-bhalani.vercel.app/" />
+        <link rel="canonical" href="https://jay-portfolio-seven.vercel.app/" />
         <link
           rel="search"
           href="/opensearch.xml"
